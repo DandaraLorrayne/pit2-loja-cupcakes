@@ -2,7 +2,7 @@
 
 Projeto Integrador Transdisciplinar em Engenharia de Software II.
 
-**Aluno:** Maicon Furtado  
+**Aluno:** Dandara Lorrayne do Nascimento 
 **RGM:** 36588709  
 **GitHub:** DandaraLorrayne
 
