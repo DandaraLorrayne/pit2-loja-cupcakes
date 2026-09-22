@@ -1,0 +1,1 @@
+{% extends "base.html" %}{% block content %}<div class="success-box"><h1>Pedido confirmado! 🎉</h1><p>Pedido <strong>#{{pedido.id}}</strong> registrado para {{pedido.cliente_nome}}.</p><p>Total: <strong>R$ {{ "%.2f"|format(pedido.total)|replace(".",",") }}</strong></p><a class="button" href="{{url_for('main.index')}}">Voltar ao cardápio</a></div>{% endblock %}
